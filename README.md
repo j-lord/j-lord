@@ -3,7 +3,7 @@
 #### Anti social
 <div class="row">
 <div class="column">
-<a href="https://www.linkedin.com/in/jaysinlord/" target="_blank">
+<a href="https://www.linkedin.com/in/jaysinlord/" target="_blank" rel="noopener noreferrer">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>  <!-- LinkedIn -->
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> <!-- Discord -->
