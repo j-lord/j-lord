@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> <!-- Discord -->
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> <!-- Whats app -->
 </div>
-<br><br>
 <!--     Skills -->
 <h4>What I know - the sillz</h4>
 <div class="column">
