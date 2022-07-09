@@ -18,7 +18,9 @@
 <a href="https://cplusplus.com">
 <img alt="C++" src="https://img.shields.io/badge/C++-14354C?style=for-the-badge&logoColor=white"/>
 </a> <!-- C++ -->
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <!-- MYSQL -->
+<a href="https://www.mysql.com">
+<img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a> <!-- MYSQL -->
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <!-- JS -->
 </div>
 <div class="column">
