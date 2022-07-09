@@ -11,7 +11,7 @@
 </div>
 <br><br>
 <!--     Skills -->
-#### Anti social
+<h4>What I know - the sillz</h4>
 <div class="column">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <!-- Python -->
 <img src="https://img.shields.io/badge/C++-14354C?style=for-the-badge&logoColor=white"/> <!-- C++ -->
