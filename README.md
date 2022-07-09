@@ -81,7 +81,7 @@
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> <!-- Unity -->
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/> <!-- Salesforce -->
 </div><br><br>
-<h3>Everything is <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/> on a <img src="https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white"/></h3> <!-- Macbook -->
+<h3>All things are <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/> on a <img src="https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white"/></h3> <!-- Macbook -->
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-lord&count_private=true&show_icons=true&theme=blue-green&layout=compact"/>
 <!-- All badges at: https://dev.to/envoy_/150-badges-for-github-pnk#skills -->
