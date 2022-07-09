@@ -1,6 +1,6 @@
 ### <em>Somtimes sciecne is more Art than sciecne, Morty. A lot of people don't get that</em>
 <!--  Skills -->
-<h3>What I know - the sillz</h3>
+<h3>What I have worked with - the sillz</h3>
 <div class="column">
 <a href="https://www.python.org">
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
