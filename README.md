@@ -36,7 +36,9 @@
 <!-- Extra tools.  -->
 <h3>The tools - sorry, no VIM here</h3>
 <div class="column">
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>  <!-- MAC OS -->
+<a href="https://www.apple.com/macos/">
+<img alt="Arduino" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+</a> <!-- MAC OS -->
 <a href="https://ubuntu.com">
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </a> <!-- Ubuntu -->
@@ -111,7 +113,6 @@
 <a href="https://www.salesforce.com">
 <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/>
 </a> <!-- Salesforce -->
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/> <!-- Salesforce -->
 <!--  Social -->
 <h3>Anti social</h3>
 <div class="row">
@@ -119,7 +120,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jaysinlord/" target="_blank" rel="noopener noreferrer">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>  <!-- LinkedIn -->
-<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jaysinlord/" target="_blank" rel="noopener noreferrer">
+<a target="_blank" rel="noopener noreferrer" href="https://discord.com" target="_blank" rel="noopener noreferrer">
 <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>  <!-- Discord -->
 </div>
