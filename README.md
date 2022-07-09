@@ -80,8 +80,8 @@
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> <!-- Discord -->
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> <!-- Whats app -->
 </div>
-</div><br><br>
-<h3>All things are&nbsp;<img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>&nbsp;on a&nbsp;<img src="https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white"/></h3> <!-- Macbook -->
+</div>
+<h2>All things are&nbsp;<img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>&nbsp;on a&nbsp;<img src="https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white"/></h2> <!-- Macbook -->
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-lord&count_private=true&show_icons=true&theme=blue-green&layout=compact"/>
 <!-- All badges at: https://dev.to/envoy_/150-badges-for-github-pnk#skills -->
