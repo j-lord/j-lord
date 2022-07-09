@@ -3,7 +3,7 @@
 #### Anti social
 <div class="row">
 <div class="column">
-<a href="https://www.linkedin.com/in/jaysinlord/">
+<a href="https://www.linkedin.com/in/jaysinlord/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>  <!-- LinkedIn -->
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> <!-- Discord -->
@@ -18,7 +18,6 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <!-- JS -->
 </div>
 <div class="column">
-<img src=""/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  <!-- HTML5 -->
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <!-- CSS -->
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>  <!-- Swift -->
