@@ -24,16 +24,23 @@
 <a href="https://www.javascript.com">
 <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </a> <!-- JS -->
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <!-- JS -->
 </div>
 <div class="column">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </a> <!-- HTML5 -->
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <!-- CSS -->
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>  <!-- Swift -->
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <!-- BASH -->
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <!-- Arduino -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img alt="CSS" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</a> <!-- CSS -->
+<a href="https://developer.apple.com/swift/">
+<img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+</a> <!-- Swift -->
+<a href="https://www.tutorialspoint.com/unix/shell_scripting.htm">
+<img alt="Bash Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</a> <!-- Bash -->
+<a href="https://www.arduino.cc">
+<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+</a> <!-- Arduino -->
 </div><br><br>
 <!--      Extra tools.  -->
 ### The tools - sorry, no VIM here
