@@ -1,14 +1,4 @@
 ### So much to learn...
-<!--  Social -->
-<h3>Anti social</h3>
-<div class="row">
-<div class="column">
-<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jaysinlord/" target="_blank" rel="noopener noreferrer">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>  <!-- LinkedIn -->
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> <!-- Discord -->
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> <!-- Whats app -->
-</div>
 <!--  Skills -->
 <h3>What I know - the sillz</h3>
 <div class="column">
@@ -80,6 +70,16 @@
 <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"/> <!-- Svelte -->
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> <!-- Unity -->
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/> <!-- Salesforce -->
+<!--  Social -->
+<h3>Anti social</h3>
+<div class="row">
+<div class="column">
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jaysinlord/" target="_blank" rel="noopener noreferrer">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>  <!-- LinkedIn -->
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> <!-- Discord -->
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> <!-- Whats app -->
+</div>
 </div><br><br>
 <h3>All things are <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/> on a <img src="https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white"/></h3> <!-- Macbook -->
 <br><br>
