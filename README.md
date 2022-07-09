@@ -1,4 +1,4 @@
-### Somtimes sciecne is more Art than sciecne, Morty. A lot of people don't get that
+### <em>Somtimes sciecne is more Art than sciecne, Morty. A lot of people don't get that</em>
 <!--  Skills -->
 <h3>What I know - the sillz</h3>
 <div class="column">
