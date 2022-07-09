@@ -2,7 +2,7 @@
 
 <p>
   [![Jaysin's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-lord)](https://github.com/j-lord/github-readme-stats)
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=j-lord)](https://github.com/j-lord/github-readme-stats"/>
+<!--   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=j-lord)](https://github.com/j-lord/github-readme-stats"/> -->
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
