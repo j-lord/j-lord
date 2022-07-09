@@ -12,8 +12,12 @@
 <!--     Skills -->
 <h4>What I know - the sillz</h4>
 <div class="column">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <!-- Python -->
-<img src="https://img.shields.io/badge/C++-14354C?style=for-the-badge&logoColor=white"/> <!-- C++ -->
+<a href="https://www.python.org">
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+</a> <!-- Python -->
+<a href="https://cplusplus.com">
+<img alt="C++" src="https://img.shields.io/badge/C++-14354C?style=for-the-badge&logoColor=white"/>
+</a> <!-- C++ -->
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <!-- MYSQL -->
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <!-- JS -->
 </div>
