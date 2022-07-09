@@ -21,7 +21,7 @@
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </a> <!-- HTML5 -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img alt="CSS" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 </a> <!-- CSS -->
 <a href="https://developer.apple.com/swift/">
 <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
