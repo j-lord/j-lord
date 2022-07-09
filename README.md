@@ -1,4 +1,5 @@
-### So much to learn...
+### Somtimes sciecne is more Art than sciecne, Morty. 
+### A lot of people don't get that
 <!--  Skills -->
 <h3>What I know - the sillz</h3>
 <div class="column">
