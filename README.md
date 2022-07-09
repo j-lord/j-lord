@@ -1,6 +1,6 @@
 ### So much to learn...
 <!--  Social -->
-#### Anti social
+<h3>Anti social</h3>
 <div class="row">
 <div class="column">
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jaysinlord/" target="_blank" rel="noopener noreferrer">
@@ -41,7 +41,7 @@
 <a href="https://www.arduino.cc">
 <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </a> <!-- Arduino -->
-</div><br><br>
+</div>
 <!-- Extra tools.  -->
 <h3>The tools - sorry, no VIM here</h3>
 <div class="column">
@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <!-- Notion -->
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/> <!-- Trello -->
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/> <!-- Jira -->
-</div><br><br>
+</div>
 <!--  Design -->
 <h3>Where I create - designs and what not</h3>
 <div class="column">
@@ -67,7 +67,7 @@
 <div class="column">
 <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"/> <!-- Adobe CC -->
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/> <!-- Blender -->
-</div><br><br>
+</div>
 <!--     Need to learn -->
 <h3>Need to learn - as in the books are in my Amazon cart</h3>
 <div class="column">
