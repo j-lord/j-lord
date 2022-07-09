@@ -37,39 +37,80 @@
 <h3>The tools - sorry, no VIM here</h3>
 <div class="column">
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>  <!-- MAC OS -->
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>  <!-- Ubuntu -->
-<img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"/>  <!-- Emacs -->
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <!-- VS Code -->
+<a href="https://ubuntu.com">
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</a> <!-- Ubuntu -->
+<a href="https://www.gnu.org/software/emacs/">
+<img alt="Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"/>
+</a> <!-- Emacs -->
+<a href="https://code.visualstudio.com/">
+<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</a> <!-- VS Code -->
 </div>
 <div class="column">
-<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/> <!-- XCode -->
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/> <!-- Sublime -->
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <!-- Notion -->
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/> <!-- Trello -->
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/> <!-- Jira -->
+<a href="https://developer.apple.com/xcode/">
+<img alt="X Code" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
+</a> <!-- X Code -->
+<a href="https://www.sublimetext.com">
+<img alt="Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
+</a> <!-- Sublime -->
+<a href="https://www.notion.so">
+<img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</a> <!-- Notion -->
+<a href="https://trello.com/en">
+<img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+</a> <!-- Trello -->
+<a href="https://www.atlassian.com/software/jira">
+<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+</a> <!-- Jira -->
 </div>
 <!--  Design -->
 <h3>Where I create - designs and what not</h3>
 <div class="column">
-<img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black"/> <!-- Sketch -->
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <!-- Figma -->
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <!-- Adobe XD -->
+<a href="https://www.sketch.com">
+<img alt="Sketch" src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black"/>
+</a> <!-- Sketch -->
+<a href="https://www.figma.com">
+<img alt="" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</a> <!-- Figma -->
+<a href="https://www.adobe.com/products/xd.html">
+<img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
+</a> <!-- Adobe XD -->
 </div>
 <div class="column">
-<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"/> <!-- Adobe CC -->
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/> <!-- Blender -->
+<a href="https://www.adobe.com/creativecloud.html">
+<img alt="Adobe CC" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"/>
+</a> <!-- Adobe CC -->
+<a href="https://www.blender.org">
+<img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
+</a> <!-- Blender -->
 </div>
 <!--     Need to learn -->
 <h3>Need to learn - as in the books are in my Amazon cart</h3>
 <div class="column">
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <!-- AWS -->
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <!-- MONGO -->
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <!-- Flutter -->
+<a href="https://aws.amazon.com">
+<img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</a> <!-- AWS -->
+<a href="https://www.mongodb.com">
+<img alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</a> <!-- MONGODB -->
+<a href="https://flutter.dev">
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</a> <!-- Flutter -->
 </div>
 <div class="column">
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> <!-- RUST -->
-<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"/> <!-- Svelte -->
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> <!-- Unity -->
+<a href="https://www.rust-lang.org">
+<img alt="RUST" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+</a> <!-- RUST -->
+<a href="https://svelte.dev">
+<img alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"/>
+</a> <!-- Svelte -->
+<a href="https://unity.com">
+<img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+</a> <!-- Unity -->
+<a href="https://www.salesforce.com">
+<img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/>
+</a> <!-- Salesforce -->
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/> <!-- Salesforce -->
 <!--  Social -->
 <h3>Anti social</h3>
@@ -78,11 +119,12 @@
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jaysinlord/" target="_blank" rel="noopener noreferrer">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>  <!-- LinkedIn -->
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> <!-- Discord -->
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> <!-- Whats app -->
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jaysinlord/" target="_blank" rel="noopener noreferrer">
+<img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>  <!-- Discord -->
 </div>
 </div>
 <h2>All things are&nbsp;<img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>&nbsp;on an&nbsp;<img src="https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white"/></h2> <!-- Macbook -->
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-lord&count_private=true&show_icons=true&theme=codeSTACKr&layout=compact"/>
-<!-- All badges at: https://dev.to/envoy_/150-badges-for-github-pnk#skills -->
+<!-- All badges can be found at: https://dev.to/envoy_/150-badges-for-github-pnk#skills -->
