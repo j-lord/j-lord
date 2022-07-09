@@ -125,9 +125,8 @@
 </a>  <!-- Discord -->
 </div>
 </div>
-<!-- <a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/Love"> -->
 <h2>All things are&nbsp;<img alt="Love" src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>&nbsp;on an&nbsp;<img src="https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white"/></h2> <!-- Macbook -->
-<!-- </a>  <!-- Love and Macbooks --> -->
+<!-- Love and Macbooks -->
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-lord&count_private=true&show_icons=true&theme=codeSTACKr&layout=compact"/>
 <!-- All badges can be found at: https://dev.to/envoy_/150-badges-for-github-pnk#skills -->
