@@ -87,8 +87,8 @@
 <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
 </a> <!-- Blender -->
 </div>
-<!--     Need to learn -->
-<h3>Need to learn - as in the books are in my Amazon cart</h3>
+<!-- Up next to learn -->
+<h3>Up next to learn - as in books are in my Amazon cart</h3>
 <div class="column">
 <a href="https://aws.amazon.com">
 <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
