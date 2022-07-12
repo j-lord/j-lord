@@ -125,7 +125,6 @@
 </a>  <!-- Discord -->
 </div>
 </div>
-</div>
 <h2>All things are&nbsp;<img alt="Love" src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>&nbsp;on an&nbsp;<img src="https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white"/></h2> <!-- Macbook -->
 <!-- Love and Macbooks -->
 <br><br>
