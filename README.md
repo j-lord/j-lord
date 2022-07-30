@@ -1,6 +1,5 @@
 <h2>Hi, I'm Jaysin, I work in finance - my HR department won't allow me to say anything further</h2>
 ### <em>Sometimes science is more Art than science, Morty. A lot of people don't get that</em>
-
 <!--  Skills -->
 <h3>What I have worked with - the sills</h3>
 <div class="column">
