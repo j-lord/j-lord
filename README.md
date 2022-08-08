@@ -114,7 +114,7 @@
 <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/>
 </a> <!-- Salesforce -->
 <!--  Social -->
-<h3>Anti social</h3>
+<h3>Anti-social</h3>
 <div class="row">
 <div class="column">
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jaysinlord/" target="_blank" rel="noopener noreferrer">
