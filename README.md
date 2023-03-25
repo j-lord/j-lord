@@ -1,7 +1,7 @@
 <h2>Hi, I'm Jaysin, I work in finance - that is all HR will allow me to say</h2>
 <h3><em>"Sometimes science is more art than science. A lot of people don't get that Morty"</em></h3>
 <!--  Skills -->
-<h3>What I have worked with - the skills</h3>
+<h3>What I have worked with - The Skills</h3>
 <div class="column">
 <a href="https://www.python.org">
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -34,7 +34,7 @@
 </a> <!-- Arduino -->
 </div>
 <!-- Extra tools.  -->
-<h3>The tools - sorry, no VIM here</h3>
+<h3>Thou is not VIM worthy - The Tools</h3>
 <div class="column">
 <a href="https://www.apple.com/macos/">
 <img alt="Arduino" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
@@ -67,7 +67,7 @@
 </a> <!-- Jira -->
 </div>
 <!--  Design -->
-<h3>Where I create - designs and what not</h3>
+<h3>Designs and what not</h3>
 <div class="column">
 <a href="https://www.sketch.com">
 <img alt="Sketch" src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black"/>
@@ -88,7 +88,7 @@
 </a> <!-- Blender -->
 </div>
 <!-- Up next to learn -->
-<h3>Up next to learn - as in books are in my Amazon cart</h3>
+<h3>Up next to learn - as in books in my Amazon cart that may evenutally get purchased</h3>
 <div class="column">
 <a href="https://aws.amazon.com">
 <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -114,7 +114,7 @@
 <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/>
 </a> <!-- Salesforce -->
 <!--  Social -->
-<h3>Anti-social</h3>
+<h3>The Anti-social</h3>
 <div class="row">
 <div class="column">
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jaysinlord/" target="_blank" rel="noopener noreferrer">
