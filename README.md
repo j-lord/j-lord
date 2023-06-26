@@ -88,7 +88,7 @@
 </a> <!-- Blender -->
 </div>
 <!-- Up next to learn -->
-<h3>Up next to learn - as in books in my Amazon cart to purchase</h3>
+<h3>Up next to learn</h3>
 <div class="column">
 <a href="https://aws.amazon.com">
 <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
