@@ -125,7 +125,7 @@
 </a>  <!-- Discord -->
 </div>
 </div>
-<h2>All things are&nbsp;<img alt="Love" src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>&nbsp;on an&nbsp;<img src="https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white" href="https://www.salesforce.com"/></h2> <!-- Macbook -->
+<h2>All things are&nbsp;<img alt="Love" src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>&nbsp;on an&nbsp;<img src="https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white" <a href="https://www.salesforce.com"/>/></h2> <!-- Macbook -->
 <!-- Love and Macbooks -->
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-lord&count_private=true&show_icons=true&theme=codeSTACKr&layout=compact"/>
