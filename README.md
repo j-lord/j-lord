@@ -3,9 +3,9 @@
 <!--  Skills -->
 <h3>What I have worked with - The Skills</h3>
 <div class="column">
-<a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+<a href="https://www.python.org" target="_blank" rel="noopener noreferrer"></a>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-</a> <!-- Python -->
+ <!-- Python -->
 <a href="https://cplusplus.com">
 <img alt="C++" src="https://img.shields.io/badge/C++-14354C?style=for-the-badge&logoColor=white"/>
 </a> <!-- C++ -->
