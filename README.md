@@ -130,3 +130,9 @@
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-lord&count_private=true&show_icons=true&theme=codeSTACKr&layout=compact"/>
 <!-- All badges can be found at: https://dev.to/envoy_/150-badges-for-github-pnk#skills -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
