@@ -75,9 +75,6 @@
 <a href="https://www.figma.com">
 <img alt="" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </a> <!-- Figma -->
-<a href="https://www.adobe.com/products/xd.html">
-<img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
-</a> <!-- Adobe XD -->
 </div>
 <div class="column">
 <a href="https://www.adobe.com/creativecloud.html">
